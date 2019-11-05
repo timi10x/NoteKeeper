@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Edit Note</string>
+    <string name="action_settings">Share</string>
+    <string name="title_activity_note_list">Note Keeper</string>
+</resources>
